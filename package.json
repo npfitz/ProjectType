@@ -1,7 +1,12 @@
 {
   "name": "ProjectType",
+  "subdomain": "ProjectType",
+  "domains": [
+    "fotfote.me",
+    "www.fotfote.me"
+  ],
   "private": true,
-  "version": "0.0.0-22",
+  "version": "0.0.0-30",
   "description": "a Sails application",
   "dependencies": {
     "sails": "0.9.8",
@@ -18,7 +23,6 @@
   "repository": "",
   "author": "",
   "license": "",
-  "subdomain": "ProjectType",
   "engines": {
     "node": "0.10.x"
   }
